@@ -1,0 +1,7 @@
+# Vulnerable service banners and descriptions
+OpenSSH 4.7|CVE-2008-3259: Remote code execution vulnerability in older OpenSSH versions.
+vsFTPd 2.3.4|CVE-2011-2523: Contains a backdoor vulnerability; allows remote code execution.
+Apache/2.2.8|Multiple CVEs: Outdated Apache version with known vulnerabilities including DoS and RCE.
+MySQL 5.0|CVE-2006-1516: Privilege escalation vulnerability in older MySQL servers.
+PHP/5.4.0|Multiple CVEs: Outdated PHP version vulnerable to code execution and security bypass.
+OpenSSL 0.9.8|CVE-2014-0160: Heartbleed vulnerability in OpenSSL.
